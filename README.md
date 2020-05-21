@@ -19,7 +19,7 @@ This script plots for multiple states, showing their daily confirmed cases and t
 
 ### 4. States_Positivity_Test_Rate.ipynb
 
-This script also plots for multiple states, showing the test positivity percent for all this time. To calculate the ratio we have taken cumulative values. The positivity percent for any day is calculated as:
+This script also plots for multiple states, showing the test positivity percent for all this time. To calculate the ratio we have taken cumulative values. The positivity percent for any day is calculated as: <br>
 Positivity percent = (total positive/ total tests conducted) x 100
 
 ### 5. States_Tests_perMillion.ipynb
